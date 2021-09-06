@@ -1,1 +1,2 @@
-print (Hello Devops);
+print ('Hello Devops');
+print ('true');
