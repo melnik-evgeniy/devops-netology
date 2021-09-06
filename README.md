@@ -1,7 +1,7 @@
 # devops-netology
 !!!START!!!
 Porsche
-
+add new line
 **/.terraform/* игнорируем все директории до и все что угодно после слеша
 
 *.tfstate - игнорирует все файлы с расширением .tfstate, например А.tfstate
